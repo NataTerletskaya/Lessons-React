@@ -1,0 +1,14 @@
+.category-item {
+  padding: 10px;
+  border: 1px solid #aeaeae;
+  background: #fff;
+  cursor: pointer;
+  font-weight: bold; 
+  display: block;
+}
+.category-item.active {
+  background-color: #aaa;
+}
+.category-item-actions {
+  float: right;
+}

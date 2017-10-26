@@ -1,0 +1,20 @@
+.task-list {
+  width: 100%;
+}
+.task-list td,
+.task-list th {
+  padding: 5px;
+}
+.task-list tr:nth-child(odd) {
+  background-color: #eaeaea;
+}
+.task-list th:first-child,
+.task-list th:last-child {
+  width:15%;
+}
+.task-list th {
+  border: 1px solid #ffffff;
+  background: #aeaeae;
+  font-weight: bold;
+  text-align: left;
+}
